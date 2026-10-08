@@ -1,0 +1,45 @@
+{
+  "nextId": 3,
+  "registrations": [
+    {
+      "registrationId": "TLC-DC24D5",
+      "commitHash": "42150a1",
+      "name": "Test User",
+      "email": "test@example.com",
+      "phone": "9876543210",
+      "college": "IIT Bombay",
+      "year": "2nd Year",
+      "department": "Computer Science",
+      "github": "",
+      "linkedin": "",
+      "portfolio": "",
+      "teamName": "NullPointers",
+      "teamSize": "2",
+      "teamMembers": "",
+      "track": "AI / Machine Learning",
+      "status": "pending",
+      "id": 1,
+      "createdAt": "2026-10-04T18:37:29.889Z"
+    },
+    {
+      "registrationId": "TLC-A96852",
+      "commitHash": "83ddfeb",
+      "name": "stadal",
+      "email": "sp3835@srmist.edu.in",
+      "phone": "6290791068",
+      "college": "srm",
+      "year": "2nd Year",
+      "department": "computer",
+      "github": "https://www.booking.com/index.html?aid=1670475&label=enin-edge-ntp-topsites-curate-ana",
+      "linkedin": "https://www.booking.com/index.html?aid=1670475&label=enin-edge-ntp-topsites-curate-ana",
+      "portfolio": "https://www.booking.com/index.html?aid=1670475&label=enin-edge-ntp-topsites-curate-ana",
+      "teamName": "codesmashers",
+      "teamSize": "3",
+      "teamMembers": "sat\ntan\nrac\nshiv",
+      "track": "AI / Machine Learning",
+      "status": "pending",
+      "id": 2,
+      "createdAt": "2026-10-04T19:02:56.633Z"
+    }
+  ]
+}
