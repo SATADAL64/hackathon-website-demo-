@@ -41,8 +41,8 @@ export default function AdminPage() {
     setError('')
     try {
       const [regRes, statsRes] = await Promise.all([
-        fetch('/api/registrations'),
-        fetch('/api/registrations/stats'),
+        fetch('https://hackathon-website-demo1.onrender.com/api/registrations'),
+        fetch('https://hackathon-website-demo1.onrender.com/api/registrations/stats'),
       ])
       if (!regRes.ok) throw new Error('Backend not reachable')
       const regData = await regRes.json()

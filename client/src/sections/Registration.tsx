@@ -120,7 +120,7 @@ export default function Registration() {
     setIsSubmitting(true)
 
     try {
-      const response = await fetch('/api/registrations', {
+      const response = await fetch('https://hackathon-website-demo1.onrender.com/api/registrations', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(formData),
